@@ -1,13 +1,4 @@
-<img src="https://cdn.rawgit.com/detailyang/awesome-cheatsheet/master/awesome.svg" alt="awesome" width="120" align="right" >
-# Awesome Cheatsheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)    [![Build Status](https://api.travis-ci.org/detailyang/awesome-cheatsheet.svg)](https://travis-ci.org/detailyang/awesome-cheatsheet)    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/detailyang/awesome-cheatsheet/master/LICENSE)
-> List of useful cheatsheets
-
-Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/detailyang/awesome-cheatsheet/graphs/contributors)**.
-
-#### *If you see a link here is not fit, you can fix it or provide a better link by submitting a [PR](https://github.com/detailyang/awesome-cheatsheet/edit/master/README.md) to improve this file. Thank you!*
-
-
+# Cheatsheet
 ## Table of Contents
 
 - [Platforms](#platforms)
@@ -131,7 +122,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 ## Big Data
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
-##Databases
+## Databases
 
 - [MongoDb-cheat-sheet](https://github.com/leojavier/MongoDb-cheat-sheet)
 - [mysql-cheat-sheet](http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/)
@@ -186,17 +177,17 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
 - [tmux](https://gist.github.com/andreyvit/2921703)
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
-##Media
+## Media
 
 - [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
-##Security
+## Security
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
 - [Penetration Testing/Security Cheatsheets](https://github.com/jshaw87/Cheatsheets)
 - [oauthsecurity](https://github.com/homakov/oauthsecurity)
 
-##Miscellaneous
+## Miscellaneous
 
 - [easings.net](https://github.com/ai/easings.net)
 - [math-as-code](https://github.com/Jam3/math-as-code)
